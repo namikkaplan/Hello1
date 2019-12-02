@@ -1,5 +1,6 @@
 // This is my first comment
 // This is my second comment comitted to comment branch
+// This third line added to master branch
 class Hello
 {
 	public static void main(String [] args)
